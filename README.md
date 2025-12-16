@@ -29,7 +29,7 @@ This project is a single-file application (`index.html`). No complex dependencie
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/interactive-solar-system-css-js.git](https://github.com/YOUR_USERNAME/interactive-solar-system-css-js.git)
+    git clone [https://github.com/Time7874/interactive-solar-system-css-js.git](https://github.com/Time7874/interactive-solar-system-css-js.git)
     ```
 2.  **Open the file:**
     Navigate to the project directory and double-click the `index.html` file. It will open directly in your web browser.
