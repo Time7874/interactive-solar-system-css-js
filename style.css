@@ -132,6 +132,8 @@
         justify-content: center;
         align-items: center;
         animation: rotate var(--speed) linear infinite;
+        pointer-events: none;
+
     }
 
     .paused {
@@ -143,6 +145,8 @@
         border-radius: 50%;
         cursor: pointer;
         transition: box-shadow 0.3s;
+        pointer-events: auto;
+        z-index: 5;
     }
 
     .planet:hover {
@@ -294,4 +298,5 @@
     #info-card h2 {
         margin: 0 0 10px 0;
         color: var(--accent-color);
+
     }
